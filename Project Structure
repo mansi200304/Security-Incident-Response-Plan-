@@ -1,0 +1,14 @@
+security-incident-response-plan/
+│
+├── README.md
+├── requirements.txt
+├── app/
+│   ├── incident_response_plan.py
+│   ├── testing_protocols.py
+│   └── utils.py
+├── infrastructure/
+│   └── cloudformation.yaml
+└── documentation/
+    ├── SIRP_Overview.md
+    ├── Incident_Response_Protocols.md
+    └── Testing_Procedures.md
